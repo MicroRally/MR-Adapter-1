@@ -30,11 +30,17 @@ BBB - document content
 
 Standart documents
 Schematits - PDF of schematics.
+
 PCB - PDF of PCB and assembly drawings. (Assembly - location of components)
+
 MODEL - 3D step model of board.
+
 BOM - Bill of Materials. List of all components on PCB. NL means Not Load - do not solder, not neccesery.
+
 GERBERS - Files that you send to PCB manufacturer.
+
 PNP - Pick and Place files for automated assembly.
 
 PANEL_PCB - PDF of panel drawing. Panel is for cheaper mass production.
+
 PANEL_GERGERS - Files that you send to PCB manufacturer, to produce bunch of boards as a single board with V-CUTs.
