@@ -25,11 +25,10 @@ PWM duty cycle to analog voltage (0-5V) converter board.
 ## File structure
 In each foder you will find files for understaning schematics and manufactuirng PCB.
 
-All files ar formated in this fassion:
-- AAA_rN_BBB
-- AAA - project name
-- N - board revision number
-- BBB - document content
+All files ar formated in this fassion: **AAA_rN_BBB**
+- **AAA** - project name
+- **N** - board revision number
+- **BBB** - document content
 
 ### Standart documents
 
