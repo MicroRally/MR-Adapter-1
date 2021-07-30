@@ -40,3 +40,7 @@ All files ar formated in this fassion: **AAA_rN_BBB**
 - PNP - Pick and Place files for automated assembly.
 - PANEL_PCB - PDF of panel drawing. Panel is for cheaper mass production.
 - PANEL_GERBERS - Files that you send to PCB manufacturer, to produce bunch of boards as a single board with V-CUTs.
+
+## To Do
+[] Create detail description of use cases and BOM options for each adapter
+[] Make more helper boards :D
