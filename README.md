@@ -31,7 +31,7 @@ All files ar formated in this fassion:
 -N - board revision number
 -BBB - document content
 
-###Standart documents
+### Standart documents
 
 -Schematits - PDF of schematics.
 -PCB - PDF of PCB and assembly drawings. (Assembly - location of components)
