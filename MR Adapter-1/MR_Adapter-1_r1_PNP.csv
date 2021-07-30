@@ -1,0 +1,17 @@
+Altium Designer Pick and Place Locations
+C:\Mikrotik\MR_PRO\MR_Adapter-1\.\Outputs\MR_Adapter-1_r1_PNP.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       13.07.21
+Time:       12:56
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation"
+"R4","27.4000","3.1000","TopLayer","90"
+"R3","25.6000","4.9000","TopLayer","270"
+"R2","23.1000","2.0000","TopLayer","360"
+"R1","23.1000","6.0000","TopLayer","360"
