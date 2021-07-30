@@ -42,5 +42,5 @@ All files ar formated in this fassion: **AAA_rN_BBB**
 - PANEL_GERBERS - Files that you send to PCB manufacturer, to produce bunch of boards as a single board with V-CUTs.
 
 ## To Do
--[ ] Create detail description of use cases and BOM options for each adapter
--[ ] Make more helper boards :D
+- [ ] Create detailed description of use cases and BOM options for each adapter
+- [ ] Make more helper boards :D
