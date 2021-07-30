@@ -2,7 +2,7 @@
 MicroRally automative wiring harness helper boards.
 Includes different adapters and converters. All made for soldering directly in-line of your harness branch. Made with slort for wire strain relief. Optionaly can be fitted with 2.0mm pitch connectors, like Molex MicroLatch series.
 
-##List of adapters
+## List of adapters
 
 Adapter 1:
 2 channel pull-up/down or voltage divider or filter board.
